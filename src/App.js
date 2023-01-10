@@ -1,7 +1,9 @@
 import "./App.css";
 
 function App() {
-  return <div className="App">New branch</div>;
+  return <div className="App">
+    
+  </div>;
 }
 
 export default App;
